@@ -25,3 +25,5 @@ Atualmente, busco ampliar minhas competências em programação, explorando nova
 👯 Estou procurando colaborar em: projetos de servidores relacionados a FiveM, RedM, DayZ
 
 -->
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
