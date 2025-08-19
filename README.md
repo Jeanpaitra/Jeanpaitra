@@ -29,7 +29,7 @@ Atualmente, busco ampliar minhas competências em programação, explorando nova
 
 ###  Redes Sociais
 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://kick.com/jhpgames)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/com/jhpgames)
 [![Kick](https://img.shields.io/badge/Kick-000000?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/jhpgames)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Jhpgames)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jhpgames)
