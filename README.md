@@ -1,9 +1,6 @@
 ## Olá me chamo Jean Paitra, formado em Logística, com experiência na administração e desenvolvimento de servidores FiveM, aplicando a linguagem Lua em frameworks como vRP, vRPex e QBCore.
 Atualmente, busco ampliar minhas competências em programação, explorando novas linguagens e tecnologias para evoluir profissionalmente na área de desenvolvimento.
 
-
-
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zJhpgames&show_icons=true&theme=dark"
@@ -13,21 +10,19 @@ Atualmente, busco ampliar minhas competências em programação, explorando nova
     srcset="https://github-readme-stats.vercel.app/api?username=zJhpgames&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zJhpgames&show_icons=true" />
 </picture>
-<!--
 
+---
 
+🔭 Atualmente estou trabalhando em: servidores FiveM & RedM  
+🌱 Atualmente estou aprendendo: Lua & HTML  
+👯 Estou procurando colaborar em: projetos de servidores relacionados a FiveM, RedM, DayZ  
 
+---
 
-🔭 Atualmente estou trabalhando em: servidores FiveM & RedM
-🌱 Atualmente estou aprendendo: lua & html
-👯 Estou procurando colaborar em: projetos de servidores relacionados a FiveM, RedM, DayZ
-
--->
 ### 🚀 Linguagens
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
