@@ -7,10 +7,10 @@ Atualmente, busco ampliar minhas competências em programação, explorando nova
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zJhpgames&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Jeanpaitra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=zJhpgames&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeanpaitra&show_icons=true" />
 </picture>
 
 ---
