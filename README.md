@@ -3,7 +3,7 @@ Atualmente, busco ampliar minhas competências em programação, explorando nova
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zJhpgames&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Jeanpaitra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
