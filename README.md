@@ -16,7 +16,7 @@ Atualmente, busco ampliar minhas competências em programação, explorando nova
 ---
 
 🔭 Atualmente estou trabalhando em: servidores FiveM & RedM  
-🌱 Atualmente estou aprendendo: Lua & HTML  
+🌱 Atualmente estou aprendendo: Lua, HTML, CSS & JavaScript  
 👯 Estou procurando colaborar em: projetos de servidores relacionados a FiveM, RedM, DayZ  
 
 ---
